@@ -1,0 +1,11 @@
+공식 일정 : 1/12(월) ~ 2/10(화)
+
+1조 ???? (항공지연예측/보상안내) :  김재호, 김민호, 신형준, 이희성
+	https://github.com/Jayk1220/2ndTeamProject
+2조 안전한家(주택계약서독소조항판별) :  박상용, 김재학, 김지훈, 김효경
+	https://github.com/thre3o2wo/2ndTeamProject
+3조 AI air(여행 플랜 추천) : 박태희, 조성환, 허정
+	https://github.com/drose14789/2nd_project
+
+
+
